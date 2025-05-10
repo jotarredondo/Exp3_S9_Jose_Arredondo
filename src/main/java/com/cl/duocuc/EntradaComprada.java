@@ -2,7 +2,7 @@ package com.cl.duocuc;
 
 public class EntradaComprada {
 
-    private int iDCompra = 100;
+    private int iDCompra;
     private String codigoLista;
     private String ubicacionReservada;
     private int descuento;
